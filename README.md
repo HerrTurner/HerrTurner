@@ -1,17 +1,35 @@
 <h1 align='center'> Jorge Emiliano Turner Escalante </h1>
 
+## Who am I?
+I'm a curious CS student at Tecnológico de Monterrey. I love challenges and learning new things to create solutions.
 
-# contacto
+### Find me at  
+[![https://www.linkedin.com/in/george-esc/](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn URL")](https://www.linkedin.com/in/george-esc/) 
+[![george.esc@outlook.com](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white "Email")](george.esc@outlook.com) 
 
-# description
 
-# technologies
+## Technologies and programming languages
 
-# experience
+- C++
+- Python
+- Node.js
+- React
+- Unity
+- MySQL
+- MongoDB
+- Matlab
 
-# featured projects
 
-# extra curricular work
+
+# experience and featured projects
+
+## Extra curricular work
+- tecxotic
+- iktan
+- lebotics
+
+### interests
+
 
 
 
