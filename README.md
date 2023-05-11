@@ -15,46 +15,27 @@ I'm a curious CS student at Tecnológico de Monterrey. I love challenges and lea
 
 <br>
 
-## Technologies and programming languages 💻
+### Technologies and programming languages
 
 <div>
-<img alt = "JavaScript" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" >
-<img alt = "C++" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" >
-<img alt = "Python" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" >
-<img alt = "Node.js" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" >
-<img alt = "React" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" >
-<img alt = "Unity" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" >
-<img alt = "MySQL" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" >
-<img alt = "MongoDB" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" >
-<img alt = "AWS" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" >
-<img alt = "Matlab" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" >
+    <img alt = "JavaScript" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" >
+    <img alt = "C++" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" >
+    <img alt = "Python" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" >
+    <img alt = "Node.js" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" >
+    <img alt = "React" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" >
+    <img alt = "Unity" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" >
+    <img alt = "MySQL" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" >
+    <img alt = "MongoDB" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" >
+    <img alt = "AWS" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" >
+    <img alt = "Matlab" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" >
 </div>
 
-
 <br>
-
-## Experience & Co-curricular work
-> [<img align="left" height="80px" width="80px" alt="Microsoft" src="https://github.com/benc-uk/icon-collection/blob/master/logos/microsoft-logo.svg"/>](https://www.microsoft.com/)
-> **Lebotics Mentor (August 2021 - May 2023)** \
-> [**Microsoft**](https://www.microsoft.com/) • Microsoft Explore Intern (SWE + PM)\
-> Languages & Technologies: `TypeScript`, `React`, `JavaScript`, `C#`, `CosmosDB`, `Azure DevOps` \>
-
-<br>
-
-> [<img align="left" height="65px" alt="Tecxotic" src="https://tecxotic.com.mx/wp-content/uploads/2021/05/Logo-Tecxotic-Azul.png"/>](https://tecxotic.com.mx/)
-> **MATE ROV Competition (2020 - present)** \
-> [**Tecxotic**](https://tecxotic.com.mx/) • Developer \
-> Languages & Technologies: `JavaScript`, `Python`, `Html5`, `Image Processing` \
-
-
-
-
 
 ### Interests
 - Love listening to music 🎵
 - Enjoy hanging out with friends 🎮 🎥
 - Solving puzzles 🧩
-- Reading every book near me 📚
 
 <!--
 **HerrTurner/HerrTurner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
